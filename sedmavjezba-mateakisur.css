@@ -1,0 +1,91 @@
+
+body {
+    font-family: "Yu Gothic UI Semibold", "Yu Gothic Medium", "Bahnschrift SemiBold", "Sitka Text";
+    margin: 20px;
+    line-height: 1.6;
+    color: #C060D5;
+	background-color: #161414;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #D5226A;
+}
+
+img {
+    display: block;
+    margin: 0 auto 15px;
+    max-width: 100%;
+    height: auto;
+}
+
+video, audio {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+}
+
+iframe {
+    width: 100%;
+    height: 315px;
+    margin-top: 10px;
+    border: none;
+}
+
+.button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #D5226A;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #D5226A;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form button {
+    padding: 10px 15px;
+    background-color: #D5226A;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #D5226A;
+}
+
+embed {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
